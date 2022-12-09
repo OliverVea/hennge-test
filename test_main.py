@@ -57,7 +57,7 @@ def test_main_with_invalid_number_in_test_case_numbers_count(monkeypatch, capsys
 
     # Assert
     out, err = capsys.readouterr()
-    assert out == ""
+    assert out == "12\n"
     assert err == ""
 
 def test_main_with_invalid_numbers_in_test_case(monkeypatch, capsys):
