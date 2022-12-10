@@ -2,7 +2,7 @@
 """Test suite of the solution to ensure that it works as expected.
 
 Solution and a small pytest suite can be found on Github.
-See: https://github.com/OliverVea/hennge-test.
+See: https://github.com/OliverVea/recruitment-test.
 """
 
 import io

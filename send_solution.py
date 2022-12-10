@@ -1,6 +1,4 @@
-"""Used to send the POST request to Hennge
-
-"""
+"""Used to send the POST request to Company"""
 
 import hashlib
 import argparse

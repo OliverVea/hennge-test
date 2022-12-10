@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-"""Hennge code test solution by Oliver Vea.
+"""Company code test solution by Oliver Vea.
 
 Solution and a small pytest suite can be found on Github.
-See: https://github.com/OliverVea/hennge-test.
+See: https://github.com/OliverVea/recruitment-test.
 """
 
 from typing import Iterator
