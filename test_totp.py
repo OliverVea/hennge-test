@@ -1,3 +1,5 @@
+"""Tests for TOTP and HOTP generation"""
+
 from totp import get_hotp_token
 
 

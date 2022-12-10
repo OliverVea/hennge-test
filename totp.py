@@ -1,6 +1,8 @@
 """Used to generate HOTP and TOTP passwords."""
 
-import base64, hashlib, time
+import base64
+import hashlib
+import time
 import pyotp
 
 
